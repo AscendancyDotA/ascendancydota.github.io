@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ascendancydota.github.io/sitemap.xml
