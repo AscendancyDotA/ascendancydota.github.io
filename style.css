@@ -37,3 +37,5 @@ footer a{color:var(--mut)}
 .legal h1{font-size:1.7rem;margin:2rem 0 1rem}
 .legal h2{font-size:1.15rem;margin:1.6rem 0 .4rem}
 .todo{background:var(--todo);padding:0 .25rem;border-radius:4px}
+nav a{white-space:nowrap}
+@media (max-width:560px){nav a:not(:last-child){display:none}}
